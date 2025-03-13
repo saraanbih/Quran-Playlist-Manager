@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quran Playlist Manager", "Quran Playlist Manager.csproj", "{4DB57D82-B111-4C21-B6DC-01D695F312DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB57D82-B111-4C21-B6DC-01D695F312DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB57D82-B111-4C21-B6DC-01D695F312DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB57D82-B111-4C21-B6DC-01D695F312DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB57D82-B111-4C21-B6DC-01D695F312DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A975DD-D5B6-4CFE-8260-151E1ACC3A98}
+	EndGlobalSection
+EndGlobal
