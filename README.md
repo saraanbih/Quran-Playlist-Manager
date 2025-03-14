@@ -108,7 +108,7 @@ This project is open-source under the **MIT License**—free to use, share, and 
 ## 🌟 **Support & Feedback**  
 💖 **Love this project? Give it a star ⭐ on [GitHub](https://github.com/saraanbih/Quran-Playlist-Manager)!**  
 🌿 **Share your feedback or suggestions** – Let’s make it even better!  
-📧 **Contact:** [saraanbih@example.com](mailto:saraanbih@example.com)  
+📧 **Contact:** [Email](mailto:nabihsara8@gmail.com)  
 
 🌺 _May your recitations bring you peace, blessings, and joy!_ 🌺  
 
