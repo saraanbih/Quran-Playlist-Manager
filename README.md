@@ -100,11 +100,6 @@ We warmly welcome contributions from developers and Quran enthusiasts! 🌍
 
 ---
 
-## 📜 **License**  
-This project is open-source under the **MIT License**—free to use, share, and improve!  
-
----
-
 ## 🌟 **Support & Feedback**  
 💖 **Love this project? Give it a star ⭐ on [GitHub](https://github.com/saraanbih/Quran-Playlist-Manager)!**  
 🌿 **Share your feedback or suggestions** – Let’s make it even better!  
